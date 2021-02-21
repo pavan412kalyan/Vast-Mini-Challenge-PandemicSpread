@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+      <link rel="stylesheet" href="index_files/bootstrap.css">
+      <link rel="stylesheet" href="styles/style.css">
+    <title></title>
+    
+    <script src="https://d3js.org/d3.v6.js"></script>
+    <script>
+        var d3v6 = window.d3;
+        window.d3 = null;
+    </script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <div style="display:none;">d3 variable version: <span id="d3VarVer"></span></div>
+    <divstyle="display:none;">d3v5 variable version: <span id="d3v6VarVer"></span></div>
+    
+    <script>
+        document.getElementById("d3VarVer").innerText = d3.version;
+        document.getElementById("d3v6VarVer").innerText = d3v6.version;
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.0/moment.min.js"></script>
+    <script src='scripts/load_file.js'></script>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+      svg {
+          border:1px solid gray;
+          border-radius:10px;
+          height:550px;
+          width:1100px;
+          margin:10px;
+        }
+
+        #wrapper {
+          margin:auto;
+          width:1440px;
+        }
+      div.sticky{
+/*          position: absolute;
+          top: 100px;*/
+           z-index: 0;
+          position: -webkit-sticky;
+          position: sticky;
+          top: 0px;
+          height: 50px;
+        
+        padding:30px 0;
+       
+ }
+    </style>
+  </head>
+  <body>
+    <div class='sticky1'>
+<!--       <ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul> -->
+
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark navbar-fixed-top" style="z-index: 1">
+      <div class="container" >
+         <a class="navbar-brand" href="">CSE 578 - DATA VISUALIZATION</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#vis3hash">Death Span</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#vis2hash">Symptoms Analysis</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#my_datavizhash">Death/Hospitalized Rates</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#vis1hash">Country Wise Pandemics</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#svg_apriori_charthash">Set of Syndromes</a>
+          </li>
+         <!--  <li class="nav-item">
+            <a class="nav-link" href="">About</a>
+          </li> -->
+        </ul>
+      </div>
+      </div>
+     
+    </nav>
+  </div>
+    
+ 
+      <div class="grid-container" style="display:grid;grid-template-columns: 1fr 1fr;grid-gap: 100px ;margin-top: 100px; margin-left: 300px;">
+            <div class="">
+              <h1>VAST Challenge 2010</h1>
+              <h1>Mini-Challenge 2: Characterization of Pandemic Spread</h1>
+            </div>
+
+ 
+            <div class="">
+              <img src="index_files/covid.png" class="img-fluid" width="180" height="180">
+            </div>
+  
+      </div>
+
+  <div class='sticky'>
+    <header class = "bg-light" style="min-height: 20px;margin-top: 20px;">
+      <div class="container">
+        <div class="row row-header" style='padding-top: 10px; padding-bottom: 10px'>
+            <b><label style="margin-top: 3.5px;font-size: 20px">Country</label></b>&emsp;&emsp;
+          <select id = 'countries' onchange = "countryChange(value)" class="btn btn-dark dropdown-toggle">
+            <option value="all">ALL</option>
+            <option value="aleppo">ALEPPO </option>
+            <option value="colombia">COLOMBIA</option>
+            <option value="iran">IRAN</option>
+            <option value="karachi">KARACHI</option>
+            <option value="lebanon">LEBANON</option>
+            <option value="nairobi">NAIROBI</option>
+            <option value="saudiarabia">SAUDI ARABIA</option>
+            <option value="thailand">THAILAND</option>
+            <option value="turkey">TURKEY</option>
+            <option value="venezuela">VENEZUELA</option>
+            <option value="yemen">YEMEN</option>
+          </select>
+          &emsp;&emsp;&emsp;&emsp;
+
+
+        <div id = 'gender_selection' style="margin-top: 3.5px;font-size: 20px">
+          <b>
+            <input type="radio" name='gender' value="male" style='margin: 0 1px 0 40px' onchange="genderChange(value)"> Male
+            <input type="radio" name='gender' value="female" style='margin: 0 1px 0 90px' onchange="genderChange(value)"> Female 
+            <input type="radio" name='gender' value="all" style='margin: 0 1px 0 80px' onchange="genderChange(value)" checked=checked> Both 
+          </b>
+        </div>
+
+        <!-- <b><label style="margin-top: 3.5px;font-size: 20px">Gender</label></b>&emsp;&emsp;
+          <select id = 'survival' onchange = "survivalChange(value)" class="btn btn-dark dropdown-toggle">
+            <option value="hospitalized">male</option>
+            <option value="dead">female</option>
+          </select> -->
+
+
+        &emsp;&emsp;&emsp;&emsp;&emsp;
+
+        <b><label style="margin-top: 3.5px;font-size: 20px">Survival</label></b>&emsp;&emsp;
+          <select id = 'survival' onchange = "survivalChange(value)" class="btn btn-dark dropdown-toggle">
+            <option value="1">Dead</option>  
+            <option value="0">Hospitalized</option>
+            
+          </select>
+
+        </div>
+      </div>
+    </header>    
+  </div>
+   
+   <div id='wrapper'>
+    
+    <div id="vis3hash">
+      <br><br><br><br><br><br>
+      <h4 style="text-align: center; font-weight: bold;"> DEATH SPAN OF PATIENTS</h4>
+    <svg id='vis3' style="margin-top: 25px;margin-left: 135px;"></svg>
+  </div>
+
+    <div id="vis2hash">
+      <br><br><br><br><br><br>
+      <h4 style="text-align: center; font-weight: bold;">SYMPTOM ANALYSIS</h4>
+      <svg id = 'vis2' style="margin-top: 25px;margin-left: 135px;"></svg>
+    </div>
+
+
+    <div id="my_datavizhash">
+      <br><br><br><br><br><br>
+      <h4 style="text-align: center; font-weight: bold;"> ANALYSING THE DEATH/HOSPITALIZED RATES </h4>
+      <svg id = 'my_dataviz' style="margin-top: 25px;margin-left: 135px;"></svg>
+    </div>
+    <div id="vis1hash">
+    <br><br><br><br><br><br>
+      <h4 style="text-align: center; font-weight: bold;"> COUNTRY-WISE ANALYSIS OF THE PANDEMIC SPREAD</h4>
+      <svg class="graph" id = "vis1" style="margin-top: 25px;margin-left: 135px;"></svg>
+    </div>
+
+    <div id="svg_apriori_charthash">
+      <br><br><br><br><br><br>
+      <h4 style="text-align: center; font-weight: bold;"> FREQUENT SET OF SYMPTOMS FROM APRIORI</h4>
+     <svg id='svg_apriori_chart' ></svg>
+   </div>
+    
+    </div>
+    <div id ='tooltip'> </div>
+    <div id="tooltip_vis1"></div>
+    <div id='tooltip_apriori'> </div> 
+</body></html>

@@ -1,0 +1,147 @@
+.bg-success{
+    background-color: rgb(241, 205, 205);
+}
+
+.bg-warning {
+    background-color: rgb(241, 205, 205);
+}
+
+#wrapper {
+          margin:auto;
+          width:1440px;
+        }
+
+#vis3 {
+	background-color: beige;
+}
+
+#vis2{
+	background-color: #e8ffe8;
+	width:1100px;
+	height:590px;
+    display:block;
+    margin: auto;
+}
+
+#vis1{
+	width:1100px;
+	height:650px;
+    display:block;
+    margin: auto;
+}
+
+.navbar{
+	position: fixed;
+	top:0 ;
+	width:100%;
+	overflow: hidden;
+}
+
+#tooltip {
+            border: black;
+            border-radius: 5%;
+            opacity: 0.8;
+            padding:15px;
+        }
+
+
+.line {
+    fill: none;
+    stroke: blue;
+    stroke-width: 2;
+}
+
+.line1 {
+  fill: none;
+  stroke: red;
+  stroke-width: 2
+}
+
+#tooltip_vis1 {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: #FFFFFF;
+  color: #313639;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 1.3rem;
+}
+
+div.tooltip2 {	
+            position: absolute;			
+            text-align: center;			
+            width: 155px;					
+            height: 60px;					
+            padding: 2px;				
+            font: 12px sans-serif;		
+            background: rgb(240, 208, 202);	
+            border: 0px;		
+            border-radius: 8px;			
+            pointer-events: none;			
+        }
+div.tooltip3 {	
+    position: absolute;			
+    text-align: center;			
+    width: 155px;					
+    height: 60px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: #c6bfa7;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+#my_dataviz{
+	width:1200px;
+	height:700px;
+	margin-left:-100px;
+}
+
+.tick{
+	font-size: 0.7em;
+}
+
+#svg_apriori_chart{
+    border:1px solid #800000;
+    width: 100%;
+    max-width:1400px;
+    height:800px;
+}
+
+.node {
+	stroke: black;
+	stroke-width: 1px;
+}
+
+.node-label {
+    font-size: .8em;
+    text-anchor: middle;
+    alignment-baseline: middle;
+}
+
+.link {
+    stroke: #999;
+    stroke-width:2px;
+    stroke-opacity: 0.5;
+    fill:none;
+}          
+#svg_apriori_chart {
+  background-color: rgb(195, 255, 252);
+}
+ 
+div.tooltip_apriori {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: #e4dcdc;
+  color: #313639;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  /* width: 120px; */
+  /* height: 120px; */
+  pointer-events: none;
+  font-size: 1.3rem;
+} 

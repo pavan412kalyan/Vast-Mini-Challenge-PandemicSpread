@@ -1,0 +1,1849 @@
+count,country,gender,status,symptom
+9,aleppo,M,1,Heart Problems
+7,aleppo,F,1,Heart Problems
+16,aleppo,A,1,Heart Problems
+8547,aleppo,M,0,Heart Problems
+8318,aleppo,F,0,Heart Problems
+16865,aleppo,A,0,Heart Problems
+11,aleppo,M,1,Vocal Problems
+9,aleppo,F,1,Vocal Problems
+20,aleppo,A,1,Vocal Problems
+11774,aleppo,M,0,Vocal Problems
+11694,aleppo,F,0,Vocal Problems
+23468,aleppo,A,0,Vocal Problems
+12026,aleppo,M,1,abdominal pain
+12004,aleppo,F,1,abdominal pain
+24030,aleppo,A,1,abdominal pain
+112595,aleppo,M,0,abdominal pain
+112579,aleppo,F,0,abdominal pain
+225174,aleppo,A,0,abdominal pain
+6,aleppo,M,1,abscess
+4,aleppo,F,1,abscess
+10,aleppo,A,1,abscess
+3899,aleppo,M,0,abscess
+3815,aleppo,F,0,abscess
+7714,aleppo,A,0,abscess
+2848,aleppo,M,1,bleeding
+3028,aleppo,F,1,bleeding
+5876,aleppo,A,1,bleeding
+46587,aleppo,M,0,bleeding
+47774,aleppo,F,0,bleeding
+94361,aleppo,A,0,bleeding
+16060,aleppo,M,1,body pain
+15987,aleppo,F,1,body pain
+32047,aleppo,A,1,body pain
+327750,aleppo,M,0,body pain
+327166,aleppo,F,0,body pain
+654916,aleppo,A,0,body pain
+15,aleppo,M,1,breathing
+4,aleppo,F,1,breathing
+19,aleppo,A,1,breathing
+11728,aleppo,M,0,breathing
+11469,aleppo,F,0,breathing
+23197,aleppo,A,0,breathing
+19,aleppo,M,1,chest
+15,aleppo,F,1,chest
+34,aleppo,A,1,chest
+14983,aleppo,M,0,chest
+14934,aleppo,F,0,chest
+29917,aleppo,A,0,chest
+2091,aleppo,M,1,cough
+2075,aleppo,F,1,cough
+4166,aleppo,A,1,cough
+64523,aleppo,M,0,cough
+64348,aleppo,F,0,cough
+128871,aleppo,A,0,cough
+819,aleppo,M,1,cramp
+841,aleppo,F,1,cramp
+1660,aleppo,A,1,cramp
+7444,aleppo,M,0,cramp
+7488,aleppo,F,0,cramp
+14932,aleppo,A,0,cramp
+0,aleppo,M,1,deficit
+0,aleppo,F,1,deficit
+0,aleppo,A,1,deficit
+0,aleppo,M,0,deficit
+0,aleppo,F,0,deficit
+0,aleppo,A,0,deficit
+2,aleppo,M,1,diabetic
+0,aleppo,F,1,diabetic
+2,aleppo,A,1,diabetic
+1300,aleppo,M,0,diabetic
+1312,aleppo,F,0,diabetic
+2612,aleppo,A,0,diabetic
+7097,aleppo,M,1,diarrhea
+6995,aleppo,F,1,diarrhea
+14092,aleppo,A,1,diarrhea
+65822,aleppo,M,0,diarrhea
+65928,aleppo,F,0,diarrhea
+131750,aleppo,A,0,diarrhea
+8,aleppo,M,1,dizziness
+7,aleppo,F,1,dizziness
+15,aleppo,A,1,dizziness
+9150,aleppo,M,0,dizziness
+9325,aleppo,F,0,dizziness
+18475,aleppo,A,0,dizziness
+6,aleppo,M,1,fatigue
+10,aleppo,F,1,fatigue
+16,aleppo,A,1,fatigue
+9250,aleppo,M,0,fatigue
+9248,aleppo,F,0,fatigue
+18498,aleppo,A,0,fatigue
+5828,aleppo,M,1,fever
+5786,aleppo,F,1,fever
+11614,aleppo,A,1,fever
+111537,aleppo,M,0,fever
+111338,aleppo,F,0,fever
+222875,aleppo,A,0,fever
+466,aleppo,M,1,headache
+435,aleppo,F,1,headache
+901,aleppo,A,1,headache
+22872,aleppo,M,0,headache
+23053,aleppo,F,0,headache
+45925,aleppo,A,0,headache
+0,aleppo,M,1,infections
+1,aleppo,F,1,infections
+1,aleppo,A,1,infections
+615,aleppo,M,0,infections
+638,aleppo,F,0,infections
+1253,aleppo,A,0,infections
+892,aleppo,M,1,injury
+889,aleppo,F,1,injury
+1781,aleppo,A,1,injury
+78530,aleppo,M,0,injury
+78872,aleppo,F,0,injury
+157402,aleppo,A,0,injury
+24,aleppo,M,1,laceration
+18,aleppo,F,1,laceration
+42,aleppo,A,1,laceration
+22880,aleppo,M,0,laceration
+22773,aleppo,F,0,laceration
+45653,aleppo,A,0,laceration
+3,aleppo,M,1,migraine
+3,aleppo,F,1,migraine
+6,aleppo,A,1,migraine
+4407,aleppo,M,0,migraine
+4639,aleppo,F,0,migraine
+9046,aleppo,A,0,migraine
+4403,aleppo,M,1,others
+4253,aleppo,F,1,others
+8656,aleppo,A,1,others
+278394,aleppo,M,0,others
+276020,aleppo,F,0,others
+554414,aleppo,A,0,others
+5,aleppo,M,1,pregnant
+78,aleppo,F,1,pregnant
+83,aleppo,A,1,pregnant
+3261,aleppo,M,0,pregnant
+5426,aleppo,F,0,pregnant
+8687,aleppo,A,0,pregnant
+448,aleppo,M,1,rash
+467,aleppo,F,1,rash
+915,aleppo,A,1,rash
+36468,aleppo,M,0,rash
+35903,aleppo,F,0,rash
+72371,aleppo,A,0,rash
+18,aleppo,M,1,urinate
+16,aleppo,F,1,urinate
+34,aleppo,A,1,urinate
+15086,aleppo,M,0,urinate
+15204,aleppo,F,0,urinate
+30290,aleppo,A,0,urinate
+0,aleppo,M,1,vaginal
+176,aleppo,F,1,vaginal
+176,aleppo,A,1,vaginal
+0,aleppo,M,0,vaginal
+2362,aleppo,F,0,vaginal
+2362,aleppo,A,0,vaginal
+930,aleppo,M,1,vision
+836,aleppo,F,1,vision
+1766,aleppo,A,1,vision
+47146,aleppo,M,0,vision
+48276,aleppo,F,0,vision
+95422,aleppo,A,0,vision
+17233,aleppo,M,1,vomiting
+16713,aleppo,F,1,vomiting
+33946,aleppo,A,1,vomiting
+160718,aleppo,M,0,vomiting
+160792,aleppo,F,0,vomiting
+321510,aleppo,A,0,vomiting
+5,colombia,M,1,Heart Problems
+3,colombia,F,1,Heart Problems
+8,colombia,A,1,Heart Problems
+3027,colombia,M,0,Heart Problems
+2994,colombia,F,0,Heart Problems
+6021,colombia,A,0,Heart Problems
+6,colombia,M,1,Vocal Problems
+3,colombia,F,1,Vocal Problems
+9,colombia,A,1,Vocal Problems
+4061,colombia,M,0,Vocal Problems
+4089,colombia,F,0,Vocal Problems
+8150,colombia,A,0,Vocal Problems
+2450,colombia,M,1,abdominal pain
+2477,colombia,F,1,abdominal pain
+4927,colombia,A,1,abdominal pain
+28053,colombia,M,0,abdominal pain
+28002,colombia,F,0,abdominal pain
+56055,colombia,A,0,abdominal pain
+2,colombia,M,1,abscess
+4,colombia,F,1,abscess
+6,colombia,A,1,abscess
+1351,colombia,M,0,abscess
+1400,colombia,F,0,abscess
+2751,colombia,A,0,abscess
+647,colombia,M,1,bleeding
+588,colombia,F,1,bleeding
+1235,colombia,A,1,bleeding
+13410,colombia,M,0,bleeding
+14243,colombia,F,0,bleeding
+27653,colombia,A,0,bleeding
+3313,colombia,M,1,body pain
+3296,colombia,F,1,body pain
+6609,colombia,A,1,body pain
+100524,colombia,M,0,body pain
+100029,colombia,F,0,body pain
+200553,colombia,A,0,body pain
+2,colombia,M,1,breathing
+8,colombia,F,1,breathing
+10,colombia,A,1,breathing
+4146,colombia,M,0,breathing
+4136,colombia,F,0,breathing
+8282,colombia,A,0,breathing
+11,colombia,M,1,chest
+7,colombia,F,1,chest
+18,colombia,A,1,chest
+5220,colombia,M,0,chest
+5313,colombia,F,0,chest
+10533,colombia,A,0,chest
+467,colombia,M,1,cough
+441,colombia,F,1,cough
+908,colombia,A,1,cough
+20921,colombia,M,0,cough
+20592,colombia,F,0,cough
+41513,colombia,A,0,cough
+155,colombia,M,1,cramp
+161,colombia,F,1,cramp
+316,colombia,A,1,cramp
+1834,colombia,M,0,cramp
+1814,colombia,F,0,cramp
+3648,colombia,A,0,cramp
+0,colombia,M,1,deficit
+0,colombia,F,1,deficit
+0,colombia,A,1,deficit
+0,colombia,M,0,deficit
+0,colombia,F,0,deficit
+0,colombia,A,0,deficit
+0,colombia,M,1,diabetic
+2,colombia,F,1,diabetic
+2,colombia,A,1,diabetic
+446,colombia,M,0,diabetic
+463,colombia,F,0,diabetic
+909,colombia,A,0,diabetic
+1415,colombia,M,1,diarrhea
+1459,colombia,F,1,diarrhea
+2874,colombia,A,1,diarrhea
+16363,colombia,M,0,diarrhea
+16452,colombia,F,0,diarrhea
+32815,colombia,A,0,diarrhea
+6,colombia,M,1,dizziness
+2,colombia,F,1,dizziness
+8,colombia,A,1,dizziness
+3218,colombia,M,0,dizziness
+3264,colombia,F,0,dizziness
+6482,colombia,A,0,dizziness
+4,colombia,M,1,fatigue
+4,colombia,F,1,fatigue
+8,colombia,A,1,fatigue
+3349,colombia,M,0,fatigue
+3140,colombia,F,0,fatigue
+6489,colombia,A,0,fatigue
+1166,colombia,M,1,fever
+1235,colombia,F,1,fever
+2401,colombia,A,1,fever
+33886,colombia,M,0,fever
+33428,colombia,F,0,fever
+67314,colombia,A,0,fever
+102,colombia,M,1,headache
+93,colombia,F,1,headache
+195,colombia,A,1,headache
+7673,colombia,M,0,headache
+7733,colombia,F,0,headache
+15406,colombia,A,0,headache
+0,colombia,M,1,infections
+0,colombia,F,1,infections
+0,colombia,A,1,infections
+228,colombia,M,0,infections
+242,colombia,F,0,infections
+470,colombia,A,0,infections
+188,colombia,M,1,injury
+193,colombia,F,1,injury
+381,colombia,A,1,injury
+27028,colombia,M,0,injury
+27036,colombia,F,0,injury
+54064,colombia,A,0,injury
+7,colombia,M,1,laceration
+5,colombia,F,1,laceration
+12,colombia,A,1,laceration
+8164,colombia,M,0,laceration
+7975,colombia,F,0,laceration
+16139,colombia,A,0,laceration
+1,colombia,M,1,migraine
+1,colombia,F,1,migraine
+2,colombia,A,1,migraine
+1624,colombia,M,0,migraine
+1540,colombia,F,0,migraine
+3164,colombia,A,0,migraine
+962,colombia,M,1,others
+934,colombia,F,1,others
+1896,colombia,A,1,others
+93961,colombia,M,0,others
+94187,colombia,F,0,others
+188148,colombia,A,0,others
+2,colombia,M,1,pregnant
+15,colombia,F,1,pregnant
+17,colombia,A,1,pregnant
+1175,colombia,M,0,pregnant
+1854,colombia,F,0,pregnant
+3029,colombia,A,0,pregnant
+75,colombia,M,1,rash
+92,colombia,F,1,rash
+167,colombia,A,1,rash
+12653,colombia,M,0,rash
+12236,colombia,F,0,rash
+24889,colombia,A,0,rash
+4,colombia,M,1,urinate
+5,colombia,F,1,urinate
+9,colombia,A,1,urinate
+5335,colombia,M,0,urinate
+5370,colombia,F,0,urinate
+10705,colombia,A,0,urinate
+0,colombia,M,1,vaginal
+31,colombia,F,1,vaginal
+31,colombia,A,1,vaginal
+0,colombia,M,0,vaginal
+704,colombia,F,0,vaginal
+704,colombia,A,0,vaginal
+183,colombia,M,1,vision
+188,colombia,F,1,vision
+371,colombia,A,1,vision
+16163,colombia,M,0,vision
+16104,colombia,F,0,vision
+32267,colombia,A,0,vision
+3471,colombia,M,1,vomiting
+3463,colombia,F,1,vomiting
+6934,colombia,A,1,vomiting
+40216,colombia,M,0,vomiting
+39976,colombia,F,0,vomiting
+80192,colombia,A,0,vomiting
+3,iran,M,1,Heart Problems
+2,iran,F,1,Heart Problems
+5,iran,A,1,Heart Problems
+2321,iran,M,0,Heart Problems
+2259,iran,F,0,Heart Problems
+4580,iran,A,0,Heart Problems
+6,iran,M,1,Vocal Problems
+1,iran,F,1,Vocal Problems
+7,iran,A,1,Vocal Problems
+3095,iran,M,0,Vocal Problems
+3097,iran,F,0,Vocal Problems
+6192,iran,A,0,Vocal Problems
+1735,iran,M,1,abdominal pain
+1845,iran,F,1,abdominal pain
+3580,iran,A,1,abdominal pain
+20964,iran,M,0,abdominal pain
+21157,iran,F,0,abdominal pain
+42121,iran,A,0,abdominal pain
+2,iran,M,1,abscess
+1,iran,F,1,abscess
+3,iran,A,1,abscess
+1055,iran,M,0,abscess
+1110,iran,F,0,abscess
+2165,iran,A,0,abscess
+417,iran,M,1,bleeding
+448,iran,F,1,bleeding
+865,iran,A,1,bleeding
+10333,iran,M,0,bleeding
+10568,iran,F,0,bleeding
+20901,iran,A,0,bleeding
+2374,iran,M,1,body pain
+2425,iran,F,1,body pain
+4799,iran,A,1,body pain
+77409,iran,M,0,body pain
+76808,iran,F,0,body pain
+154217,iran,A,0,body pain
+2,iran,M,1,breathing
+5,iran,F,1,breathing
+7,iran,A,1,breathing
+3322,iran,M,0,breathing
+3161,iran,F,0,breathing
+6483,iran,A,0,breathing
+3,iran,M,1,chest
+4,iran,F,1,chest
+7,iran,A,1,chest
+4222,iran,M,0,chest
+3956,iran,F,0,chest
+8178,iran,A,0,chest
+362,iran,M,1,cough
+287,iran,F,1,cough
+649,iran,A,1,cough
+16059,iran,M,0,cough
+16020,iran,F,0,cough
+32079,iran,A,0,cough
+125,iran,M,1,cramp
+118,iran,F,1,cramp
+243,iran,A,1,cramp
+1402,iran,M,0,cramp
+1367,iran,F,0,cramp
+2769,iran,A,0,cramp
+0,iran,M,1,deficit
+0,iran,F,1,deficit
+0,iran,A,1,deficit
+0,iran,M,0,deficit
+0,iran,F,0,deficit
+0,iran,A,0,deficit
+0,iran,M,1,diabetic
+0,iran,F,1,diabetic
+0,iran,A,1,diabetic
+360,iran,M,0,diabetic
+346,iran,F,0,diabetic
+706,iran,A,0,diabetic
+1067,iran,M,1,diarrhea
+1044,iran,F,1,diarrhea
+2111,iran,A,1,diarrhea
+12275,iran,M,0,diarrhea
+12622,iran,F,0,diarrhea
+24897,iran,A,0,diarrhea
+4,iran,M,1,dizziness
+2,iran,F,1,dizziness
+6,iran,A,1,dizziness
+2595,iran,M,0,dizziness
+2521,iran,F,0,dizziness
+5116,iran,A,0,dizziness
+5,iran,M,1,fatigue
+2,iran,F,1,fatigue
+7,iran,A,1,fatigue
+2495,iran,M,0,fatigue
+2470,iran,F,0,fatigue
+4965,iran,A,0,fatigue
+908,iran,M,1,fever
+900,iran,F,1,fever
+1808,iran,A,1,fever
+25592,iran,M,0,fever
+25915,iran,F,0,fever
+51507,iran,A,0,fever
+75,iran,M,1,headache
+61,iran,F,1,headache
+136,iran,A,1,headache
+5941,iran,M,0,headache
+5883,iran,F,0,headache
+11824,iran,A,0,headache
+1,iran,M,1,infections
+0,iran,F,1,infections
+1,iran,A,1,infections
+165,iran,M,0,infections
+173,iran,F,0,infections
+338,iran,A,0,infections
+130,iran,M,1,injury
+142,iran,F,1,injury
+272,iran,A,1,injury
+21049,iran,M,0,injury
+20966,iran,F,0,injury
+42015,iran,A,0,injury
+4,iran,M,1,laceration
+6,iran,F,1,laceration
+10,iran,A,1,laceration
+6349,iran,M,0,laceration
+6314,iran,F,0,laceration
+12663,iran,A,0,laceration
+1,iran,M,1,migraine
+2,iran,F,1,migraine
+3,iran,A,1,migraine
+1252,iran,M,0,migraine
+1235,iran,F,0,migraine
+2487,iran,A,0,migraine
+693,iran,M,1,others
+727,iran,F,1,others
+1420,iran,A,1,others
+73099,iran,M,0,others
+72858,iran,F,0,others
+145957,iran,A,0,others
+0,iran,M,1,pregnant
+16,iran,F,1,pregnant
+16,iran,A,1,pregnant
+888,iran,M,0,pregnant
+1445,iran,F,0,pregnant
+2333,iran,A,0,pregnant
+61,iran,M,1,rash
+68,iran,F,1,rash
+129,iran,A,1,rash
+9683,iran,M,0,rash
+9451,iran,F,0,rash
+19134,iran,A,0,rash
+9,iran,M,1,urinate
+3,iran,F,1,urinate
+12,iran,A,1,urinate
+3996,iran,M,0,urinate
+4043,iran,F,0,urinate
+8039,iran,A,0,urinate
+0,iran,M,1,vaginal
+22,iran,F,1,vaginal
+22,iran,A,1,vaginal
+0,iran,M,0,vaginal
+484,iran,F,0,vaginal
+484,iran,A,0,vaginal
+133,iran,M,1,vision
+123,iran,F,1,vision
+256,iran,A,1,vision
+12561,iran,M,0,vision
+12524,iran,F,0,vision
+25085,iran,A,0,vision
+2470,iran,M,1,vomiting
+2542,iran,F,1,vomiting
+5012,iran,A,1,vomiting
+30320,iran,M,0,vomiting
+30643,iran,F,0,vomiting
+60963,iran,A,0,vomiting
+26,karachi,M,1,Heart Problems
+33,karachi,F,1,Heart Problems
+59,karachi,A,1,Heart Problems
+25406,karachi,M,0,Heart Problems
+25457,karachi,F,0,Heart Problems
+50863,karachi,A,0,Heart Problems
+33,karachi,M,1,Vocal Problems
+32,karachi,F,1,Vocal Problems
+65,karachi,A,1,Vocal Problems
+35094,karachi,M,0,Vocal Problems
+35512,karachi,F,0,Vocal Problems
+70606,karachi,A,0,Vocal Problems
+20781,karachi,M,1,abdominal pain
+21236,karachi,F,1,abdominal pain
+42017,karachi,A,1,abdominal pain
+239009,karachi,M,0,abdominal pain
+238785,karachi,F,0,abdominal pain
+477794,karachi,A,0,abdominal pain
+9,karachi,M,1,abscess
+18,karachi,F,1,abscess
+27,karachi,A,1,abscess
+12518,karachi,M,0,abscess
+12503,karachi,F,0,abscess
+25021,karachi,A,0,abscess
+5052,karachi,M,1,bleeding
+5399,karachi,F,1,bleeding
+10451,karachi,A,1,bleeding
+115148,karachi,M,0,bleeding
+118639,karachi,F,0,bleeding
+233787,karachi,A,0,bleeding
+27791,karachi,M,1,body pain
+28013,karachi,F,1,body pain
+55804,karachi,A,1,body pain
+856616,karachi,M,0,body pain
+851251,karachi,F,0,body pain
+1707867,karachi,A,0,body pain
+37,karachi,M,1,breathing
+36,karachi,F,1,breathing
+73,karachi,A,1,breathing
+35481,karachi,M,0,breathing
+35433,karachi,F,0,breathing
+70914,karachi,A,0,breathing
+44,karachi,M,1,chest
+44,karachi,F,1,chest
+88,karachi,A,1,chest
+45076,karachi,M,0,chest
+45213,karachi,F,0,chest
+90289,karachi,A,0,chest
+3635,karachi,M,1,cough
+3725,karachi,F,1,cough
+7360,karachi,A,1,cough
+178389,karachi,M,0,cough
+175263,karachi,F,0,cough
+353652,karachi,A,0,cough
+1418,karachi,M,1,cramp
+1448,karachi,F,1,cramp
+2866,karachi,A,1,cramp
+15530,karachi,M,0,cramp
+15445,karachi,F,0,cramp
+30975,karachi,A,0,cramp
+0,karachi,M,1,deficit
+0,karachi,F,1,deficit
+0,karachi,A,1,deficit
+0,karachi,M,0,deficit
+0,karachi,F,0,deficit
+0,karachi,A,0,deficit
+3,karachi,M,1,diabetic
+3,karachi,F,1,diabetic
+6,karachi,A,1,diabetic
+3858,karachi,M,0,diabetic
+3982,karachi,F,0,diabetic
+7840,karachi,A,0,diabetic
+12281,karachi,M,1,diarrhea
+12418,karachi,F,1,diarrhea
+24699,karachi,A,1,diarrhea
+140200,karachi,M,0,diarrhea
+139565,karachi,F,0,diarrhea
+279765,karachi,A,0,diarrhea
+38,karachi,M,1,dizziness
+20,karachi,F,1,dizziness
+58,karachi,A,1,dizziness
+27202,karachi,M,0,dizziness
+27441,karachi,F,0,dizziness
+54643,karachi,A,0,dizziness
+22,karachi,M,1,fatigue
+13,karachi,F,1,fatigue
+35,karachi,A,1,fatigue
+27401,karachi,M,0,fatigue
+27500,karachi,F,0,fatigue
+54901,karachi,A,0,fatigue
+10320,karachi,M,1,fever
+10338,karachi,F,1,fever
+20658,karachi,A,1,fever
+288683,karachi,M,0,fever
+286660,karachi,F,0,fever
+575343,karachi,A,0,fever
+770,karachi,M,1,headache
+755,karachi,F,1,headache
+1525,karachi,A,1,headache
+65352,karachi,M,0,headache
+65672,karachi,F,0,headache
+131024,karachi,A,0,headache
+3,karachi,M,1,infections
+4,karachi,F,1,infections
+7,karachi,A,1,infections
+1940,karachi,M,0,infections
+1895,karachi,F,0,infections
+3835,karachi,A,0,infections
+1578,karachi,M,1,injury
+1635,karachi,F,1,injury
+3213,karachi,A,1,injury
+229436,karachi,M,0,injury
+229376,karachi,F,0,injury
+458812,karachi,A,0,injury
+57,karachi,M,1,laceration
+61,karachi,F,1,laceration
+118,karachi,A,1,laceration
+68453,karachi,M,0,laceration
+68888,karachi,F,0,laceration
+137341,karachi,A,0,laceration
+9,karachi,M,1,migraine
+19,karachi,F,1,migraine
+28,karachi,A,1,migraine
+13582,karachi,M,0,migraine
+13777,karachi,F,0,migraine
+27359,karachi,A,0,migraine
+7956,karachi,M,1,others
+7902,karachi,F,1,others
+15858,karachi,A,1,others
+799183,karachi,M,0,others
+796240,karachi,F,0,others
+1595423,karachi,A,0,others
+11,karachi,M,1,pregnant
+166,karachi,F,1,pregnant
+177,karachi,A,1,pregnant
+9779,karachi,M,0,pregnant
+15363,karachi,F,0,pregnant
+25142,karachi,A,0,pregnant
+794,karachi,M,1,rash
+798,karachi,F,1,rash
+1592,karachi,A,1,rash
+106236,karachi,M,0,rash
+104767,karachi,F,0,rash
+211003,karachi,A,0,rash
+33,karachi,M,1,urinate
+36,karachi,F,1,urinate
+69,karachi,A,1,urinate
+44904,karachi,M,0,urinate
+45703,karachi,F,0,urinate
+90607,karachi,A,0,urinate
+0,karachi,M,1,vaginal
+319,karachi,F,1,vaginal
+319,karachi,A,1,vaginal
+0,karachi,M,0,vaginal
+5699,karachi,F,0,vaginal
+5699,karachi,A,0,vaginal
+1550,karachi,M,1,vision
+1467,karachi,F,1,vision
+3017,karachi,A,1,vision
+137905,karachi,M,0,vision
+137043,karachi,F,0,vision
+274948,karachi,A,0,vision
+29547,karachi,M,1,vomiting
+29617,karachi,F,1,vomiting
+59164,karachi,A,1,vomiting
+344538,karachi,M,0,vomiting
+341945,karachi,F,0,vomiting
+686483,karachi,A,0,vomiting
+1,lebanon,M,1,Heart Problems
+5,lebanon,F,1,Heart Problems
+6,lebanon,A,1,Heart Problems
+1942,lebanon,M,0,Heart Problems
+1947,lebanon,F,0,Heart Problems
+3889,lebanon,A,0,Heart Problems
+1,lebanon,M,1,Vocal Problems
+6,lebanon,F,1,Vocal Problems
+7,lebanon,A,1,Vocal Problems
+2676,lebanon,M,0,Vocal Problems
+2690,lebanon,F,0,Vocal Problems
+5366,lebanon,A,0,Vocal Problems
+1115,lebanon,M,1,abdominal pain
+1131,lebanon,F,1,abdominal pain
+2246,lebanon,A,1,abdominal pain
+15510,lebanon,M,0,abdominal pain
+15387,lebanon,F,0,abdominal pain
+30897,lebanon,A,0,abdominal pain
+1,lebanon,M,1,abscess
+1,lebanon,F,1,abscess
+2,lebanon,A,1,abscess
+949,lebanon,M,0,abscess
+888,lebanon,F,0,abscess
+1837,lebanon,A,0,abscess
+304,lebanon,M,1,bleeding
+300,lebanon,F,1,bleeding
+604,lebanon,A,1,bleeding
+8235,lebanon,M,0,bleeding
+8467,lebanon,F,0,bleeding
+16702,lebanon,A,0,bleeding
+1521,lebanon,M,1,body pain
+1521,lebanon,F,1,body pain
+3042,lebanon,A,1,body pain
+61972,lebanon,M,0,body pain
+61985,lebanon,F,0,body pain
+123957,lebanon,A,0,body pain
+3,lebanon,M,1,breathing
+3,lebanon,F,1,breathing
+6,lebanon,A,1,breathing
+2706,lebanon,M,0,breathing
+2707,lebanon,F,0,breathing
+5413,lebanon,A,0,breathing
+1,lebanon,M,1,chest
+3,lebanon,F,1,chest
+4,lebanon,A,1,chest
+3358,lebanon,M,0,chest
+3603,lebanon,F,0,chest
+6961,lebanon,A,0,chest
+251,lebanon,M,1,cough
+226,lebanon,F,1,cough
+477,lebanon,A,1,cough
+12862,lebanon,M,0,cough
+12952,lebanon,F,0,cough
+25814,lebanon,A,0,cough
+66,lebanon,M,1,cramp
+60,lebanon,F,1,cramp
+126,lebanon,A,1,cramp
+1032,lebanon,M,0,cramp
+993,lebanon,F,0,cramp
+2025,lebanon,A,0,cramp
+0,lebanon,M,1,deficit
+0,lebanon,F,1,deficit
+0,lebanon,A,1,deficit
+0,lebanon,M,0,deficit
+0,lebanon,F,0,deficit
+0,lebanon,A,0,deficit
+0,lebanon,M,1,diabetic
+0,lebanon,F,1,diabetic
+0,lebanon,A,1,diabetic
+314,lebanon,M,0,diabetic
+269,lebanon,F,0,diabetic
+583,lebanon,A,0,diabetic
+656,lebanon,M,1,diarrhea
+671,lebanon,F,1,diarrhea
+1327,lebanon,A,1,diarrhea
+8968,lebanon,M,0,diarrhea
+9121,lebanon,F,0,diarrhea
+18089,lebanon,A,0,diarrhea
+1,lebanon,M,1,dizziness
+2,lebanon,F,1,dizziness
+3,lebanon,A,1,dizziness
+2135,lebanon,M,0,dizziness
+2099,lebanon,F,0,dizziness
+4234,lebanon,A,0,dizziness
+1,lebanon,M,1,fatigue
+0,lebanon,F,1,fatigue
+1,lebanon,A,1,fatigue
+2177,lebanon,M,0,fatigue
+2152,lebanon,F,0,fatigue
+4329,lebanon,A,0,fatigue
+586,lebanon,M,1,fever
+589,lebanon,F,1,fever
+1175,lebanon,A,1,fever
+20577,lebanon,M,0,fever
+20600,lebanon,F,0,fever
+41177,lebanon,A,0,fever
+49,lebanon,M,1,headache
+37,lebanon,F,1,headache
+86,lebanon,A,1,headache
+4971,lebanon,M,0,headache
+4924,lebanon,F,0,headache
+9895,lebanon,A,0,headache
+0,lebanon,M,1,infections
+0,lebanon,F,1,infections
+0,lebanon,A,1,infections
+145,lebanon,M,0,infections
+161,lebanon,F,0,infections
+306,lebanon,A,0,infections
+105,lebanon,M,1,injury
+101,lebanon,F,1,injury
+206,lebanon,A,1,injury
+17496,lebanon,M,0,injury
+17604,lebanon,F,0,injury
+35100,lebanon,A,0,injury
+3,lebanon,M,1,laceration
+6,lebanon,F,1,laceration
+9,lebanon,A,1,laceration
+5218,lebanon,M,0,laceration
+5385,lebanon,F,0,laceration
+10603,lebanon,A,0,laceration
+0,lebanon,M,1,migraine
+0,lebanon,F,1,migraine
+0,lebanon,A,1,migraine
+1073,lebanon,M,0,migraine
+1062,lebanon,F,0,migraine
+2135,lebanon,A,0,migraine
+443,lebanon,M,1,others
+431,lebanon,F,1,others
+874,lebanon,A,1,others
+60922,lebanon,M,0,others
+61072,lebanon,F,0,others
+121994,lebanon,A,0,others
+0,lebanon,M,1,pregnant
+5,lebanon,F,1,pregnant
+5,lebanon,A,1,pregnant
+764,lebanon,M,0,pregnant
+1133,lebanon,F,0,pregnant
+1897,lebanon,A,0,pregnant
+50,lebanon,M,1,rash
+33,lebanon,F,1,rash
+83,lebanon,A,1,rash
+8167,lebanon,M,0,rash
+8154,lebanon,F,0,rash
+16321,lebanon,A,0,rash
+3,lebanon,M,1,urinate
+6,lebanon,F,1,urinate
+9,lebanon,A,1,urinate
+3417,lebanon,M,0,urinate
+3507,lebanon,F,0,urinate
+6924,lebanon,A,0,urinate
+0,lebanon,M,1,vaginal
+21,lebanon,F,1,vaginal
+21,lebanon,A,1,vaginal
+0,lebanon,M,0,vaginal
+400,lebanon,F,0,vaginal
+400,lebanon,A,0,vaginal
+85,lebanon,M,1,vision
+74,lebanon,F,1,vision
+159,lebanon,A,1,vision
+10113,lebanon,M,0,vision
+10246,lebanon,F,0,vision
+20359,lebanon,A,0,vision
+1520,lebanon,M,1,vomiting
+1612,lebanon,F,1,vomiting
+3132,lebanon,A,1,vomiting
+22252,lebanon,M,0,vomiting
+22298,lebanon,F,0,vomiting
+44550,lebanon,A,0,vomiting
+3,nairobi,M,1,Heart Problems
+5,nairobi,F,1,Heart Problems
+8,nairobi,A,1,Heart Problems
+4913,nairobi,M,0,Heart Problems
+4911,nairobi,F,0,Heart Problems
+9824,nairobi,A,0,Heart Problems
+3,nairobi,M,1,Vocal Problems
+5,nairobi,F,1,Vocal Problems
+8,nairobi,A,1,Vocal Problems
+6867,nairobi,M,0,Vocal Problems
+6849,nairobi,F,0,Vocal Problems
+13716,nairobi,A,0,Vocal Problems
+6721,nairobi,M,1,abdominal pain
+6636,nairobi,F,1,abdominal pain
+13357,nairobi,A,1,abdominal pain
+63804,nairobi,M,0,abdominal pain
+64027,nairobi,F,0,abdominal pain
+127831,nairobi,A,0,abdominal pain
+0,nairobi,M,1,abscess
+0,nairobi,F,1,abscess
+0,nairobi,A,1,abscess
+2251,nairobi,M,0,abscess
+2377,nairobi,F,0,abscess
+4628,nairobi,A,0,abscess
+1598,nairobi,M,1,bleeding
+1752,nairobi,F,1,bleeding
+3350,nairobi,A,1,bleeding
+26500,nairobi,M,0,bleeding
+27572,nairobi,F,0,bleeding
+54072,nairobi,A,0,bleeding
+9006,nairobi,M,1,body pain
+8918,nairobi,F,1,body pain
+17924,nairobi,A,1,body pain
+188396,nairobi,M,0,body pain
+187665,nairobi,F,0,body pain
+376061,nairobi,A,0,body pain
+3,nairobi,M,1,breathing
+3,nairobi,F,1,breathing
+6,nairobi,A,1,breathing
+6850,nairobi,M,0,breathing
+6823,nairobi,F,0,breathing
+13673,nairobi,A,0,breathing
+15,nairobi,M,1,chest
+5,nairobi,F,1,chest
+20,nairobi,A,1,chest
+8599,nairobi,M,0,chest
+8700,nairobi,F,0,chest
+17299,nairobi,A,0,chest
+1142,nairobi,M,1,cough
+1223,nairobi,F,1,cough
+2365,nairobi,A,1,cough
+37095,nairobi,M,0,cough
+36810,nairobi,F,0,cough
+73905,nairobi,A,0,cough
+480,nairobi,M,1,cramp
+416,nairobi,F,1,cramp
+896,nairobi,A,1,cramp
+4260,nairobi,M,0,cramp
+4237,nairobi,F,0,cramp
+8497,nairobi,A,0,cramp
+0,nairobi,M,1,deficit
+0,nairobi,F,1,deficit
+0,nairobi,A,1,deficit
+0,nairobi,M,0,deficit
+0,nairobi,F,0,deficit
+0,nairobi,A,0,deficit
+2,nairobi,M,1,diabetic
+2,nairobi,F,1,diabetic
+4,nairobi,A,1,diabetic
+762,nairobi,M,0,diabetic
+795,nairobi,F,0,diabetic
+1557,nairobi,A,0,diabetic
+3981,nairobi,M,1,diarrhea
+3862,nairobi,F,1,diarrhea
+7843,nairobi,A,1,diarrhea
+37579,nairobi,M,0,diarrhea
+36958,nairobi,F,0,diarrhea
+74537,nairobi,A,0,diarrhea
+5,nairobi,M,1,dizziness
+6,nairobi,F,1,dizziness
+11,nairobi,A,1,dizziness
+5332,nairobi,M,0,dizziness
+5328,nairobi,F,0,dizziness
+10660,nairobi,A,0,dizziness
+4,nairobi,M,1,fatigue
+4,nairobi,F,1,fatigue
+8,nairobi,A,1,fatigue
+5360,nairobi,M,0,fatigue
+5434,nairobi,F,0,fatigue
+10794,nairobi,A,0,fatigue
+3265,nairobi,M,1,fever
+3204,nairobi,F,1,fever
+6469,nairobi,A,1,fever
+64058,nairobi,M,0,fever
+63817,nairobi,F,0,fever
+127875,nairobi,A,0,fever
+255,nairobi,M,1,headache
+250,nairobi,F,1,headache
+505,nairobi,A,1,headache
+13114,nairobi,M,0,headache
+13228,nairobi,F,0,headache
+26342,nairobi,A,0,headache
+0,nairobi,M,1,infections
+0,nairobi,F,1,infections
+0,nairobi,A,1,infections
+386,nairobi,M,0,infections
+334,nairobi,F,0,infections
+720,nairobi,A,0,infections
+526,nairobi,M,1,injury
+495,nairobi,F,1,injury
+1021,nairobi,A,1,injury
+45733,nairobi,M,0,injury
+45361,nairobi,F,0,injury
+91094,nairobi,A,0,injury
+10,nairobi,M,1,laceration
+11,nairobi,F,1,laceration
+21,nairobi,A,1,laceration
+13213,nairobi,M,0,laceration
+13383,nairobi,F,0,laceration
+26596,nairobi,A,0,laceration
+3,nairobi,M,1,migraine
+2,nairobi,F,1,migraine
+5,nairobi,A,1,migraine
+2709,nairobi,M,0,migraine
+2602,nairobi,F,0,migraine
+5311,nairobi,A,0,migraine
+2471,nairobi,M,1,others
+2395,nairobi,F,1,others
+4866,nairobi,A,1,others
+160873,nairobi,M,0,others
+160964,nairobi,F,0,others
+321837,nairobi,A,0,others
+2,nairobi,M,1,pregnant
+44,nairobi,F,1,pregnant
+46,nairobi,A,1,pregnant
+1802,nairobi,M,0,pregnant
+3117,nairobi,F,0,pregnant
+4919,nairobi,A,0,pregnant
+258,nairobi,M,1,rash
+258,nairobi,F,1,rash
+516,nairobi,A,1,rash
+21321,nairobi,M,0,rash
+21014,nairobi,F,0,rash
+42335,nairobi,A,0,rash
+13,nairobi,M,1,urinate
+6,nairobi,F,1,urinate
+19,nairobi,A,1,urinate
+8631,nairobi,M,0,urinate
+8727,nairobi,F,0,urinate
+17358,nairobi,A,0,urinate
+0,nairobi,M,1,vaginal
+106,nairobi,F,1,vaginal
+106,nairobi,A,1,vaginal
+0,nairobi,M,0,vaginal
+1363,nairobi,F,0,vaginal
+1363,nairobi,A,0,vaginal
+520,nairobi,M,1,vision
+490,nairobi,F,1,vision
+1010,nairobi,A,1,vision
+27570,nairobi,M,0,vision
+27926,nairobi,F,0,vision
+55496,nairobi,A,0,vision
+9581,nairobi,M,1,vomiting
+9367,nairobi,F,1,vomiting
+18948,nairobi,A,1,vomiting
+91614,nairobi,M,0,vomiting
+91016,nairobi,F,0,vomiting
+182630,nairobi,A,0,vomiting
+5,saudiarabia,M,1,Heart Problems
+4,saudiarabia,F,1,Heart Problems
+9,saudiarabia,A,1,Heart Problems
+5951,saudiarabia,M,0,Heart Problems
+5902,saudiarabia,F,0,Heart Problems
+11853,saudiarabia,A,0,Heart Problems
+5,saudiarabia,M,1,Vocal Problems
+6,saudiarabia,F,1,Vocal Problems
+11,saudiarabia,A,1,Vocal Problems
+8309,saudiarabia,M,0,Vocal Problems
+8116,saudiarabia,F,0,Vocal Problems
+16425,saudiarabia,A,0,Vocal Problems
+3241,saudiarabia,M,1,abdominal pain
+3213,saudiarabia,F,1,abdominal pain
+6454,saudiarabia,A,1,abdominal pain
+44574,saudiarabia,M,0,abdominal pain
+44968,saudiarabia,F,0,abdominal pain
+89542,saudiarabia,A,0,abdominal pain
+1,saudiarabia,M,1,abscess
+2,saudiarabia,F,1,abscess
+3,saudiarabia,A,1,abscess
+2760,saudiarabia,M,0,abscess
+2779,saudiarabia,F,0,abscess
+5539,saudiarabia,A,0,abscess
+738,saudiarabia,M,1,bleeding
+825,saudiarabia,F,1,bleeding
+1563,saudiarabia,A,1,bleeding
+24471,saudiarabia,M,0,bleeding
+25048,saudiarabia,F,0,bleeding
+49519,saudiarabia,A,0,bleeding
+4337,saudiarabia,M,1,body pain
+4286,saudiarabia,F,1,body pain
+8623,saudiarabia,A,1,body pain
+186077,saudiarabia,M,0,body pain
+186241,saudiarabia,F,0,body pain
+372318,saudiarabia,A,0,body pain
+9,saudiarabia,M,1,breathing
+10,saudiarabia,F,1,breathing
+19,saudiarabia,A,1,breathing
+8376,saudiarabia,M,0,breathing
+8361,saudiarabia,F,0,breathing
+16737,saudiarabia,A,0,breathing
+16,saudiarabia,M,1,chest
+6,saudiarabia,F,1,chest
+22,saudiarabia,A,1,chest
+10771,saudiarabia,M,0,chest
+10728,saudiarabia,F,0,chest
+21499,saudiarabia,A,0,chest
+547,saudiarabia,M,1,cough
+557,saudiarabia,F,1,cough
+1104,saudiarabia,A,1,cough
+39719,saudiarabia,M,0,cough
+39607,saudiarabia,F,0,cough
+79326,saudiarabia,A,0,cough
+226,saudiarabia,M,1,cramp
+220,saudiarabia,F,1,cramp
+446,saudiarabia,A,1,cramp
+2866,saudiarabia,M,0,cramp
+2851,saudiarabia,F,0,cramp
+5717,saudiarabia,A,0,cramp
+0,saudiarabia,M,1,deficit
+0,saudiarabia,F,1,deficit
+0,saudiarabia,A,1,deficit
+0,saudiarabia,M,0,deficit
+0,saudiarabia,F,0,deficit
+0,saudiarabia,A,0,deficit
+1,saudiarabia,M,1,diabetic
+0,saudiarabia,F,1,diabetic
+1,saudiarabia,A,1,diabetic
+866,saudiarabia,M,0,diabetic
+942,saudiarabia,F,0,diabetic
+1808,saudiarabia,A,0,diabetic
+1865,saudiarabia,M,1,diarrhea
+1943,saudiarabia,F,1,diarrhea
+3808,saudiarabia,A,1,diarrhea
+26210,saudiarabia,M,0,diarrhea
+26261,saudiarabia,F,0,diarrhea
+52471,saudiarabia,A,0,diarrhea
+4,saudiarabia,M,1,dizziness
+2,saudiarabia,F,1,dizziness
+6,saudiarabia,A,1,dizziness
+6457,saudiarabia,M,0,dizziness
+6409,saudiarabia,F,0,dizziness
+12866,saudiarabia,A,0,dizziness
+6,saudiarabia,M,1,fatigue
+2,saudiarabia,F,1,fatigue
+8,saudiarabia,A,1,fatigue
+6435,saudiarabia,M,0,fatigue
+6385,saudiarabia,F,0,fatigue
+12820,saudiarabia,A,0,fatigue
+1549,saudiarabia,M,1,fever
+1584,saudiarabia,F,1,fever
+3133,saudiarabia,A,1,fever
+61798,saudiarabia,M,0,fever
+62298,saudiarabia,F,0,fever
+124096,saudiarabia,A,0,fever
+123,saudiarabia,M,1,headache
+111,saudiarabia,F,1,headache
+234,saudiarabia,A,1,headache
+15059,saudiarabia,M,0,headache
+15122,saudiarabia,F,0,headache
+30181,saudiarabia,A,0,headache
+0,saudiarabia,M,1,infections
+0,saudiarabia,F,1,infections
+0,saudiarabia,A,1,infections
+421,saudiarabia,M,0,infections
+493,saudiarabia,F,0,infections
+914,saudiarabia,A,0,infections
+295,saudiarabia,M,1,injury
+271,saudiarabia,F,1,injury
+566,saudiarabia,A,1,injury
+53044,saudiarabia,M,0,injury
+52952,saudiarabia,F,0,injury
+105996,saudiarabia,A,0,injury
+17,saudiarabia,M,1,laceration
+17,saudiarabia,F,1,laceration
+34,saudiarabia,A,1,laceration
+16048,saudiarabia,M,0,laceration
+16188,saudiarabia,F,0,laceration
+32236,saudiarabia,A,0,laceration
+5,saudiarabia,M,1,migraine
+4,saudiarabia,F,1,migraine
+9,saudiarabia,A,1,migraine
+3222,saudiarabia,M,0,migraine
+3276,saudiarabia,F,0,migraine
+6498,saudiarabia,A,0,migraine
+1222,saudiarabia,M,1,others
+1296,saudiarabia,F,1,others
+2518,saudiarabia,A,1,others
+183976,saudiarabia,M,0,others
+183960,saudiarabia,F,0,others
+367936,saudiarabia,A,0,others
+1,saudiarabia,M,1,pregnant
+17,saudiarabia,F,1,pregnant
+18,saudiarabia,A,1,pregnant
+2278,saudiarabia,M,0,pregnant
+3522,saudiarabia,F,0,pregnant
+5800,saudiarabia,A,0,pregnant
+137,saudiarabia,M,1,rash
+149,saudiarabia,F,1,rash
+286,saudiarabia,A,1,rash
+24623,saudiarabia,M,0,rash
+24646,saudiarabia,F,0,rash
+49269,saudiarabia,A,0,rash
+7,saudiarabia,M,1,urinate
+13,saudiarabia,F,1,urinate
+20,saudiarabia,A,1,urinate
+10727,saudiarabia,M,0,urinate
+11025,saudiarabia,F,0,urinate
+21752,saudiarabia,A,0,urinate
+0,saudiarabia,M,1,vaginal
+49,saudiarabia,F,1,vaginal
+49,saudiarabia,A,1,vaginal
+0,saudiarabia,M,0,vaginal
+1164,saudiarabia,F,0,vaginal
+1164,saudiarabia,A,0,vaginal
+239,saudiarabia,M,1,vision
+242,saudiarabia,F,1,vision
+481,saudiarabia,A,1,vision
+31449,saudiarabia,M,0,vision
+31267,saudiarabia,F,0,vision
+62716,saudiarabia,A,0,vision
+4499,saudiarabia,M,1,vomiting
+4589,saudiarabia,F,1,vomiting
+9088,saudiarabia,A,1,vomiting
+64461,saudiarabia,M,0,vomiting
+64553,saudiarabia,F,0,vomiting
+129014,saudiarabia,A,0,vomiting
+1,thailand,M,1,Heart Problems
+0,thailand,F,1,Heart Problems
+1,thailand,A,1,Heart Problems
+482,thailand,M,0,Heart Problems
+493,thailand,F,0,Heart Problems
+975,thailand,A,0,Heart Problems
+0,thailand,M,1,Vocal Problems
+0,thailand,F,1,Vocal Problems
+0,thailand,A,1,Vocal Problems
+621,thailand,M,0,Vocal Problems
+649,thailand,F,0,Vocal Problems
+1270,thailand,A,0,Vocal Problems
+1,thailand,M,1,abdominal pain
+0,thailand,F,1,abdominal pain
+1,thailand,A,1,abdominal pain
+1789,thailand,M,0,abdominal pain
+1778,thailand,F,0,abdominal pain
+3567,thailand,A,0,abdominal pain
+0,thailand,M,1,abscess
+0,thailand,F,1,abscess
+0,thailand,A,1,abscess
+217,thailand,M,0,abscess
+236,thailand,F,0,abscess
+453,thailand,A,0,abscess
+0,thailand,M,1,bleeding
+0,thailand,F,1,bleeding
+0,thailand,A,1,bleeding
+1427,thailand,M,0,bleeding
+1512,thailand,F,0,bleeding
+2939,thailand,A,0,bleeding
+13,thailand,M,1,body pain
+12,thailand,F,1,body pain
+25,thailand,A,1,body pain
+11994,thailand,M,0,body pain
+11797,thailand,F,0,body pain
+23791,thailand,A,0,body pain
+0,thailand,M,1,breathing
+0,thailand,F,1,breathing
+0,thailand,A,1,breathing
+657,thailand,M,0,breathing
+621,thailand,F,0,breathing
+1278,thailand,A,0,breathing
+1,thailand,M,1,chest
+0,thailand,F,1,chest
+1,thailand,A,1,chest
+833,thailand,M,0,chest
+772,thailand,F,0,chest
+1605,thailand,A,0,chest
+2,thailand,M,1,cough
+2,thailand,F,1,cough
+4,thailand,A,1,cough
+2738,thailand,M,0,cough
+2665,thailand,F,0,cough
+5403,thailand,A,0,cough
+0,thailand,M,1,cramp
+0,thailand,F,1,cramp
+0,thailand,A,1,cramp
+101,thailand,M,0,cramp
+95,thailand,F,0,cramp
+196,thailand,A,0,cramp
+0,thailand,M,1,deficit
+0,thailand,F,1,deficit
+0,thailand,A,1,deficit
+0,thailand,M,0,deficit
+0,thailand,F,0,deficit
+0,thailand,A,0,deficit
+0,thailand,M,1,diabetic
+0,thailand,F,1,diabetic
+0,thailand,A,1,diabetic
+90,thailand,M,0,diabetic
+58,thailand,F,0,diabetic
+148,thailand,A,0,diabetic
+1,thailand,M,1,diarrhea
+0,thailand,F,1,diarrhea
+1,thailand,A,1,diarrhea
+1063,thailand,M,0,diarrhea
+1038,thailand,F,0,diarrhea
+2101,thailand,A,0,diarrhea
+0,thailand,M,1,dizziness
+1,thailand,F,1,dizziness
+1,thailand,A,1,dizziness
+465,thailand,M,0,dizziness
+463,thailand,F,0,dizziness
+928,thailand,A,0,dizziness
+0,thailand,M,1,fatigue
+0,thailand,F,1,fatigue
+0,thailand,A,1,fatigue
+503,thailand,M,0,fatigue
+449,thailand,F,0,fatigue
+952,thailand,A,0,fatigue
+4,thailand,M,1,fever
+6,thailand,F,1,fever
+10,thailand,A,1,fever
+3950,thailand,M,0,fever
+3821,thailand,F,0,fever
+7771,thailand,A,0,fever
+1,thailand,M,1,headache
+1,thailand,F,1,headache
+2,thailand,A,1,headache
+1089,thailand,M,0,headache
+1081,thailand,F,0,headache
+2170,thailand,A,0,headache
+0,thailand,M,1,infections
+0,thailand,F,1,infections
+0,thailand,A,1,infections
+41,thailand,M,0,infections
+33,thailand,F,0,infections
+74,thailand,A,0,infections
+4,thailand,M,1,injury
+4,thailand,F,1,injury
+8,thailand,A,1,injury
+4062,thailand,M,0,injury
+3919,thailand,F,0,injury
+7981,thailand,A,0,injury
+1,thailand,M,1,laceration
+0,thailand,F,1,laceration
+1,thailand,A,1,laceration
+1207,thailand,M,0,laceration
+1187,thailand,F,0,laceration
+2394,thailand,A,0,laceration
+0,thailand,M,1,migraine
+0,thailand,F,1,migraine
+0,thailand,A,1,migraine
+246,thailand,M,0,migraine
+260,thailand,F,0,migraine
+506,thailand,A,0,migraine
+9,thailand,M,1,others
+22,thailand,F,1,others
+31,thailand,A,1,others
+13413,thailand,M,0,others
+13168,thailand,F,0,others
+26581,thailand,A,0,others
+0,thailand,M,1,pregnant
+2,thailand,F,1,pregnant
+2,thailand,A,1,pregnant
+158,thailand,M,0,pregnant
+241,thailand,F,0,pregnant
+399,thailand,A,0,pregnant
+1,thailand,M,1,rash
+3,thailand,F,1,rash
+4,thailand,A,1,rash
+1841,thailand,M,0,rash
+1853,thailand,F,0,rash
+3694,thailand,A,0,rash
+0,thailand,M,1,urinate
+1,thailand,F,1,urinate
+1,thailand,A,1,urinate
+844,thailand,M,0,urinate
+819,thailand,F,0,urinate
+1663,thailand,A,0,urinate
+0,thailand,M,1,vaginal
+0,thailand,F,1,vaginal
+0,thailand,A,1,vaginal
+0,thailand,M,0,vaginal
+69,thailand,F,0,vaginal
+69,thailand,A,0,vaginal
+1,thailand,M,1,vision
+3,thailand,F,1,vision
+4,thailand,A,1,vision
+2294,thailand,M,0,vision
+2173,thailand,F,0,vision
+4467,thailand,A,0,vision
+3,thailand,M,1,vomiting
+0,thailand,F,1,vomiting
+3,thailand,A,1,vomiting
+2659,thailand,M,0,vomiting
+2654,thailand,F,0,vomiting
+5313,thailand,A,0,vomiting
+2,turkey,M,1,Heart Problems
+0,turkey,F,1,Heart Problems
+2,turkey,A,1,Heart Problems
+1558,turkey,M,0,Heart Problems
+1588,turkey,F,0,Heart Problems
+3146,turkey,A,0,Heart Problems
+1,turkey,M,1,Vocal Problems
+6,turkey,F,1,Vocal Problems
+7,turkey,A,1,Vocal Problems
+2113,turkey,M,0,Vocal Problems
+2149,turkey,F,0,Vocal Problems
+4262,turkey,A,0,Vocal Problems
+4,turkey,M,1,abdominal pain
+1,turkey,F,1,abdominal pain
+5,turkey,A,1,abdominal pain
+6032,turkey,M,0,abdominal pain
+6176,turkey,F,0,abdominal pain
+12208,turkey,A,0,abdominal pain
+1,turkey,M,1,abscess
+2,turkey,F,1,abscess
+3,turkey,A,1,abscess
+714,turkey,M,0,abscess
+686,turkey,F,0,abscess
+1400,turkey,A,0,abscess
+4,turkey,M,1,bleeding
+3,turkey,F,1,bleeding
+7,turkey,A,1,bleeding
+5009,turkey,M,0,bleeding
+5261,turkey,F,0,bleeding
+10270,turkey,A,0,bleeding
+39,turkey,M,1,body pain
+27,turkey,F,1,body pain
+66,turkey,A,1,body pain
+40917,turkey,M,0,body pain
+41068,turkey,F,0,body pain
+81985,turkey,A,0,body pain
+4,turkey,M,1,breathing
+1,turkey,F,1,breathing
+5,turkey,A,1,breathing
+2176,turkey,M,0,breathing
+2204,turkey,F,0,breathing
+4380,turkey,A,0,breathing
+5,turkey,M,1,chest
+2,turkey,F,1,chest
+7,turkey,A,1,chest
+2729,turkey,M,0,chest
+2754,turkey,F,0,chest
+5483,turkey,A,0,chest
+12,turkey,M,1,cough
+4,turkey,F,1,cough
+16,turkey,A,1,cough
+9286,turkey,M,0,cough
+9320,turkey,F,0,cough
+18606,turkey,A,0,cough
+0,turkey,M,1,cramp
+0,turkey,F,1,cramp
+0,turkey,A,1,cramp
+354,turkey,M,0,cramp
+364,turkey,F,0,cramp
+718,turkey,A,0,cramp
+0,turkey,M,1,deficit
+0,turkey,F,1,deficit
+0,turkey,A,1,deficit
+0,turkey,M,0,deficit
+0,turkey,F,0,deficit
+0,turkey,A,0,deficit
+0,turkey,M,1,diabetic
+1,turkey,F,1,diabetic
+1,turkey,A,1,diabetic
+265,turkey,M,0,diabetic
+246,turkey,F,0,diabetic
+511,turkey,A,0,diabetic
+7,turkey,M,1,diarrhea
+12,turkey,F,1,diarrhea
+19,turkey,A,1,diarrhea
+3650,turkey,M,0,diarrhea
+3603,turkey,F,0,diarrhea
+7253,turkey,A,0,diarrhea
+3,turkey,M,1,dizziness
+0,turkey,F,1,dizziness
+3,turkey,A,1,dizziness
+1647,turkey,M,0,dizziness
+1704,turkey,F,0,dizziness
+3351,turkey,A,0,dizziness
+3,turkey,M,1,fatigue
+1,turkey,F,1,fatigue
+4,turkey,A,1,fatigue
+1651,turkey,M,0,fatigue
+1581,turkey,F,0,fatigue
+3232,turkey,A,0,fatigue
+15,turkey,M,1,fever
+10,turkey,F,1,fever
+25,turkey,A,1,fever
+13371,turkey,M,0,fever
+13426,turkey,F,0,fever
+26797,turkey,A,0,fever
+3,turkey,M,1,headache
+4,turkey,F,1,headache
+7,turkey,A,1,headache
+3622,turkey,M,0,headache
+3763,turkey,F,0,headache
+7385,turkey,A,0,headache
+0,turkey,M,1,infections
+1,turkey,F,1,infections
+1,turkey,A,1,infections
+135,turkey,M,0,infections
+122,turkey,F,0,infections
+257,turkey,A,0,infections
+18,turkey,M,1,injury
+9,turkey,F,1,injury
+27,turkey,A,1,injury
+13522,turkey,M,0,injury
+13299,turkey,F,0,injury
+26821,turkey,A,0,injury
+6,turkey,M,1,laceration
+2,turkey,F,1,laceration
+8,turkey,A,1,laceration
+4195,turkey,M,0,laceration
+4256,turkey,F,0,laceration
+8451,turkey,A,0,laceration
+0,turkey,M,1,migraine
+1,turkey,F,1,migraine
+1,turkey,A,1,migraine
+830,turkey,M,0,migraine
+843,turkey,F,0,migraine
+1673,turkey,A,0,migraine
+43,turkey,M,1,others
+43,turkey,F,1,others
+86,turkey,A,1,others
+46414,turkey,M,0,others
+45602,turkey,F,0,others
+92016,turkey,A,0,others
+0,turkey,M,1,pregnant
+0,turkey,F,1,pregnant
+0,turkey,A,1,pregnant
+625,turkey,M,0,pregnant
+861,turkey,F,0,pregnant
+1486,turkey,A,0,pregnant
+2,turkey,M,1,rash
+5,turkey,F,1,rash
+7,turkey,A,1,rash
+6180,turkey,M,0,rash
+6172,turkey,F,0,rash
+12352,turkey,A,0,rash
+0,turkey,M,1,urinate
+3,turkey,F,1,urinate
+3,turkey,A,1,urinate
+2759,turkey,M,0,urinate
+2738,turkey,F,0,urinate
+5497,turkey,A,0,urinate
+0,turkey,M,1,vaginal
+0,turkey,F,1,vaginal
+0,turkey,A,1,vaginal
+0,turkey,M,0,vaginal
+255,turkey,F,0,vaginal
+255,turkey,A,0,vaginal
+7,turkey,M,1,vision
+9,turkey,F,1,vision
+16,turkey,A,1,vision
+7853,turkey,M,0,vision
+7905,turkey,F,0,vision
+15758,turkey,A,0,vision
+7,turkey,M,1,vomiting
+11,turkey,F,1,vomiting
+18,turkey,A,1,vomiting
+8956,turkey,M,0,vomiting
+9069,turkey,F,0,vomiting
+18025,turkey,A,0,vomiting
+0,venezuela,M,1,Heart Problems
+0,venezuela,F,1,Heart Problems
+0,venezuela,A,1,Heart Problems
+579,venezuela,M,0,Heart Problems
+602,venezuela,F,0,Heart Problems
+1181,venezuela,A,0,Heart Problems
+0,venezuela,M,1,Vocal Problems
+1,venezuela,F,1,Vocal Problems
+1,venezuela,A,1,Vocal Problems
+903,venezuela,M,0,Vocal Problems
+819,venezuela,F,0,Vocal Problems
+1722,venezuela,A,0,Vocal Problems
+593,venezuela,M,1,abdominal pain
+559,venezuela,F,1,abdominal pain
+1152,venezuela,A,1,abdominal pain
+6104,venezuela,M,0,abdominal pain
+6080,venezuela,F,0,abdominal pain
+12184,venezuela,A,0,abdominal pain
+0,venezuela,M,1,abscess
+0,venezuela,F,1,abscess
+0,venezuela,A,1,abscess
+308,venezuela,M,0,abscess
+289,venezuela,F,0,abscess
+597,venezuela,A,0,abscess
+121,venezuela,M,1,bleeding
+159,venezuela,F,1,bleeding
+280,venezuela,A,1,bleeding
+2773,venezuela,M,0,bleeding
+2817,venezuela,F,0,bleeding
+5590,venezuela,A,0,bleeding
+772,venezuela,M,1,body pain
+729,venezuela,F,1,body pain
+1501,venezuela,A,1,body pain
+20594,venezuela,M,0,body pain
+20607,venezuela,F,0,body pain
+41201,venezuela,A,0,body pain
+2,venezuela,M,1,breathing
+1,venezuela,F,1,breathing
+3,venezuela,A,1,breathing
+850,venezuela,M,0,breathing
+797,venezuela,F,0,breathing
+1647,venezuela,A,0,breathing
+0,venezuela,M,1,chest
+3,venezuela,F,1,chest
+3,venezuela,A,1,chest
+1000,venezuela,M,0,chest
+1030,venezuela,F,0,chest
+2030,venezuela,A,0,chest
+90,venezuela,M,1,cough
+113,venezuela,F,1,cough
+203,venezuela,A,1,cough
+4109,venezuela,M,0,cough
+4091,venezuela,F,0,cough
+8200,venezuela,A,0,cough
+40,venezuela,M,1,cramp
+46,venezuela,F,1,cramp
+86,venezuela,A,1,cramp
+377,venezuela,M,0,cramp
+410,venezuela,F,0,cramp
+787,venezuela,A,0,cramp
+0,venezuela,M,1,deficit
+0,venezuela,F,1,deficit
+0,venezuela,A,1,deficit
+0,venezuela,M,0,deficit
+0,venezuela,F,0,deficit
+0,venezuela,A,0,deficit
+0,venezuela,M,1,diabetic
+0,venezuela,F,1,diabetic
+0,venezuela,A,1,diabetic
+90,venezuela,M,0,diabetic
+84,venezuela,F,0,diabetic
+174,venezuela,A,0,diabetic
+311,venezuela,M,1,diarrhea
+309,venezuela,F,1,diarrhea
+620,venezuela,A,1,diarrhea
+3538,venezuela,M,0,diarrhea
+3681,venezuela,F,0,diarrhea
+7219,venezuela,A,0,diarrhea
+1,venezuela,M,1,dizziness
+2,venezuela,F,1,dizziness
+3,venezuela,A,1,dizziness
+611,venezuela,M,0,dizziness
+654,venezuela,F,0,dizziness
+1265,venezuela,A,0,dizziness
+1,venezuela,M,1,fatigue
+0,venezuela,F,1,fatigue
+1,venezuela,A,1,fatigue
+610,venezuela,M,0,fatigue
+677,venezuela,F,0,fatigue
+1287,venezuela,A,0,fatigue
+296,venezuela,M,1,fever
+257,venezuela,F,1,fever
+553,venezuela,A,1,fever
+6981,venezuela,M,0,fever
+6949,venezuela,F,0,fever
+13930,venezuela,A,0,fever
+19,venezuela,M,1,headache
+21,venezuela,F,1,headache
+40,venezuela,A,1,headache
+1611,venezuela,M,0,headache
+1558,venezuela,F,0,headache
+3169,venezuela,A,0,headache
+0,venezuela,M,1,infections
+0,venezuela,F,1,infections
+0,venezuela,A,1,infections
+52,venezuela,M,0,infections
+52,venezuela,F,0,infections
+104,venezuela,A,0,infections
+37,venezuela,M,1,injury
+44,venezuela,F,1,injury
+81,venezuela,A,1,injury
+5421,venezuela,M,0,injury
+5538,venezuela,F,0,injury
+10959,venezuela,A,0,injury
+1,venezuela,M,1,laceration
+0,venezuela,F,1,laceration
+1,venezuela,A,1,laceration
+1603,venezuela,M,0,laceration
+1623,venezuela,F,0,laceration
+3226,venezuela,A,0,laceration
+0,venezuela,M,1,migraine
+0,venezuela,F,1,migraine
+0,venezuela,A,1,migraine
+331,venezuela,M,0,migraine
+337,venezuela,F,0,migraine
+668,venezuela,A,0,migraine
+208,venezuela,M,1,others
+214,venezuela,F,1,others
+422,venezuela,A,1,others
+18753,venezuela,M,0,others
+18668,venezuela,F,0,others
+37421,venezuela,A,0,others
+0,venezuela,M,1,pregnant
+1,venezuela,F,1,pregnant
+1,venezuela,A,1,pregnant
+228,venezuela,M,0,pregnant
+340,venezuela,F,0,pregnant
+568,venezuela,A,0,pregnant
+30,venezuela,M,1,rash
+25,venezuela,F,1,rash
+55,venezuela,A,1,rash
+2546,venezuela,M,0,rash
+2494,venezuela,F,0,rash
+5040,venezuela,A,0,rash
+0,venezuela,M,1,urinate
+0,venezuela,F,1,urinate
+0,venezuela,A,1,urinate
+1015,venezuela,M,0,urinate
+1057,venezuela,F,0,urinate
+2072,venezuela,A,0,urinate
+0,venezuela,M,1,vaginal
+6,venezuela,F,1,vaginal
+6,venezuela,A,1,vaginal
+0,venezuela,M,0,vaginal
+123,venezuela,F,0,vaginal
+123,venezuela,A,0,vaginal
+42,venezuela,M,1,vision
+44,venezuela,F,1,vision
+86,venezuela,A,1,vision
+3297,venezuela,M,0,vision
+3280,venezuela,F,0,vision
+6577,venezuela,A,0,vision
+802,venezuela,M,1,vomiting
+760,venezuela,F,1,vomiting
+1562,venezuela,A,1,vomiting
+8644,venezuela,M,0,vomiting
+8851,venezuela,F,0,vomiting
+17495,venezuela,A,0,vomiting
+1,yemen,M,1,Heart Problems
+1,yemen,F,1,Heart Problems
+2,yemen,A,1,Heart Problems
+1281,yemen,M,0,Heart Problems
+1356,yemen,F,0,Heart Problems
+2637,yemen,A,0,Heart Problems
+3,yemen,M,1,Vocal Problems
+2,yemen,F,1,Vocal Problems
+5,yemen,A,1,Vocal Problems
+1758,yemen,M,0,Vocal Problems
+1788,yemen,F,0,Vocal Problems
+3546,yemen,A,0,Vocal Problems
+1220,yemen,M,1,abdominal pain
+1173,yemen,F,1,abdominal pain
+2393,yemen,A,1,abdominal pain
+12627,yemen,M,0,abdominal pain
+12670,yemen,F,0,abdominal pain
+25297,yemen,A,0,abdominal pain
+1,yemen,M,1,abscess
+0,yemen,F,1,abscess
+1,yemen,A,1,abscess
+576,yemen,M,0,abscess
+547,yemen,F,0,abscess
+1123,yemen,A,0,abscess
+303,yemen,M,1,bleeding
+292,yemen,F,1,bleeding
+595,yemen,A,1,bleeding
+5771,yemen,M,0,bleeding
+6028,yemen,F,0,bleeding
+11799,yemen,A,0,bleeding
+1564,yemen,M,1,body pain
+1599,yemen,F,1,body pain
+3163,yemen,A,1,body pain
+43149,yemen,M,0,body pain
+43001,yemen,F,0,body pain
+86150,yemen,A,0,body pain
+2,yemen,M,1,breathing
+1,yemen,F,1,breathing
+3,yemen,A,1,breathing
+1691,yemen,M,0,breathing
+1786,yemen,F,0,breathing
+3477,yemen,A,0,breathing
+1,yemen,M,1,chest
+2,yemen,F,1,chest
+3,yemen,A,1,chest
+2258,yemen,M,0,chest
+2233,yemen,F,0,chest
+4491,yemen,A,0,chest
+216,yemen,M,1,cough
+205,yemen,F,1,cough
+421,yemen,A,1,cough
+8667,yemen,M,0,cough
+8842,yemen,F,0,cough
+17509,yemen,A,0,cough
+100,yemen,M,1,cramp
+83,yemen,F,1,cramp
+183,yemen,A,1,cramp
+796,yemen,M,0,cramp
+846,yemen,F,0,cramp
+1642,yemen,A,0,cramp
+0,yemen,M,1,deficit
+0,yemen,F,1,deficit
+0,yemen,A,1,deficit
+0,yemen,M,0,deficit
+0,yemen,F,0,deficit
+0,yemen,A,0,deficit
+0,yemen,M,1,diabetic
+0,yemen,F,1,diabetic
+0,yemen,A,1,diabetic
+212,yemen,M,0,diabetic
+173,yemen,F,0,diabetic
+385,yemen,A,0,diabetic
+659,yemen,M,1,diarrhea
+689,yemen,F,1,diarrhea
+1348,yemen,A,1,diarrhea
+7421,yemen,M,0,diarrhea
+7364,yemen,F,0,diarrhea
+14785,yemen,A,0,diarrhea
+4,yemen,M,1,dizziness
+3,yemen,F,1,dizziness
+7,yemen,A,1,dizziness
+1257,yemen,M,0,dizziness
+1342,yemen,F,0,dizziness
+2599,yemen,A,0,dizziness
+3,yemen,M,1,fatigue
+0,yemen,F,1,fatigue
+3,yemen,A,1,fatigue
+1293,yemen,M,0,fatigue
+1344,yemen,F,0,fatigue
+2637,yemen,A,0,fatigue
+545,yemen,M,1,fever
+537,yemen,F,1,fever
+1082,yemen,A,1,fever
+14537,yemen,M,0,fever
+14535,yemen,F,0,fever
+29072,yemen,A,0,fever
+38,yemen,M,1,headache
+50,yemen,F,1,headache
+88,yemen,A,1,headache
+3255,yemen,M,0,headache
+3345,yemen,F,0,headache
+6600,yemen,A,0,headache
+0,yemen,M,1,infections
+0,yemen,F,1,infections
+0,yemen,A,1,infections
+82,yemen,M,0,infections
+90,yemen,F,0,infections
+172,yemen,A,0,infections
+100,yemen,M,1,injury
+94,yemen,F,1,injury
+194,yemen,A,1,injury
+11202,yemen,M,0,injury
+11299,yemen,F,0,injury
+22501,yemen,A,0,injury
+2,yemen,M,1,laceration
+1,yemen,F,1,laceration
+3,yemen,A,1,laceration
+3361,yemen,M,0,laceration
+3437,yemen,F,0,laceration
+6798,yemen,A,0,laceration
+1,yemen,M,1,migraine
+0,yemen,F,1,migraine
+1,yemen,A,1,migraine
+699,yemen,M,0,migraine
+731,yemen,F,0,migraine
+1430,yemen,A,0,migraine
+416,yemen,M,1,others
+418,yemen,F,1,others
+834,yemen,A,1,others
+39712,yemen,M,0,others
+39856,yemen,F,0,others
+79568,yemen,A,0,others
+0,yemen,M,1,pregnant
+9,yemen,F,1,pregnant
+9,yemen,A,1,pregnant
+504,yemen,M,0,pregnant
+736,yemen,F,0,pregnant
+1240,yemen,A,0,pregnant
+38,yemen,M,1,rash
+40,yemen,F,1,rash
+78,yemen,A,1,rash
+5407,yemen,M,0,rash
+5195,yemen,F,0,rash
+10602,yemen,A,0,rash
+3,yemen,M,1,urinate
+2,yemen,F,1,urinate
+5,yemen,A,1,urinate
+2173,yemen,M,0,urinate
+2265,yemen,F,0,urinate
+4438,yemen,A,0,urinate
+0,yemen,M,1,vaginal
+20,yemen,F,1,vaginal
+20,yemen,A,1,vaginal
+0,yemen,M,0,vaginal
+317,yemen,F,0,vaginal
+317,yemen,A,0,vaginal
+77,yemen,M,1,vision
+90,yemen,F,1,vision
+167,yemen,A,1,vision
+6814,yemen,M,0,vision
+6880,yemen,F,0,vision
+13694,yemen,A,0,vision
+1637,yemen,M,1,vomiting
+1636,yemen,F,1,vomiting
+3273,yemen,A,1,vomiting
+18217,yemen,M,0,vomiting
+18028,yemen,F,0,vomiting
+36245,yemen,A,0,vomiting

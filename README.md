@@ -1,5 +1,6 @@
 # Vast-Mini-Challenge-PandemicSpread
 
+https://pandemicspreadanalysis.netlify.app/
 
 Our project analyzes the pandemic outbreak across several cities in 2009. As part of the project we want to extract important information like how fast the outbreak is spreading, analyze the common symptoms across all patients, mortality rate and other characteristics of the pandemic spread. We are designing and implementing few visualizations for better understanding of the pandemic outbreak.
 
